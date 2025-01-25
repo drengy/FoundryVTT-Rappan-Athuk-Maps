@@ -2,7 +2,7 @@
     "id": "rappan-athuk-maps",
     "title": "Rappan Athuk Maps",
     "description": "Rappan Athuk Maps created by Lavaeolous",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
           "name": "Lavaeolous",
@@ -23,8 +23,8 @@
     ],
     "compatibility": {
         "minimum": 10,
-        "verified": 10,
-        "maximum": 10
+        "verified": 12,
+        "maximum": 12
     },
     "url": "https://github.com/Lavaeolous/FoundryVTT-Rappan-Athuk-Maps",
     "bugs": "https://github.com/Lavaeolous/FoundryVTT-Rappan-Athuk-Maps/issues",
