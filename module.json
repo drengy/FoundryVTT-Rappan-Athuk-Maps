@@ -14,7 +14,6 @@
         {
             "name": "rappan-athuk-maps",
             "label": "Rappan Athuk Maps",
-            "system": "pf1",
             "path": "packs/rappan-athuk-maps.db",
             "type": "Scene",
             "private": false,
